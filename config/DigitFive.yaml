@@ -1,0 +1,15 @@
+---
+data_name: "digitFive"
+cast_data: True
+num_classes: 10
+
+num_iters: 40000
+gen_trade_off: 0.0
+
+
+
+
+
+
+
+
