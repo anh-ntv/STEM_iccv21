@@ -5,11 +5,10 @@
 </p>
 
 ## Introduction
-This is the implementation of ``STEM: An approach to Multi-source Domain Adaptation with Guarantees''
+This is the official implementation of ``STEM: An approach to Multi-source Domain Adaptation with Guarantees''
 
 ### Prerequisites
 System Requirement:
-* Ubuntu 16.04
 * Anaconda3
 * Cuda toolkit 10.0
 
