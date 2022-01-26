@@ -5,7 +5,7 @@
 </p>
 
 ## Introduction
-This is the official implementation of ``STEM: An approach to Multi-source Domain Adaptation with Guarantees''
+This is the official implementation of [STEM: An approach to Multi-source Domain Adaptation with Guarantees](https://openaccess.thecvf.com/content/ICCV2021/html/Nguyen_STEM_An_Approach_to_Multi-Source_Domain_Adaptation_With_Guarantees_ICCV_2021_paper.html)
 
 ### Prerequisites
 System Requirement:
