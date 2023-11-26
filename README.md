@@ -29,8 +29,10 @@ Please download and unzip the dataset and save all `*.mat` file under `../datase
 * [Digits-five](https://drive.google.com/file/d/1L7gg22gGsL-vOqS88NLJrciDtczsM9oQ/view?usp=sharing)
 * [Office-31](https://drive.google.com/file/d/1Q-ABkNTmw4bMJMKLsDZ0h0WtGvzlzhNc/view?usp=sharing)
 * [DomainNet](http://ai.bu.edu/M3SDA/)
+  **Note**: Please refer to [this GitHub repo for code on DomainNet](https://github.com/anh-ntv/stem-domainnet_pytorch)
 
 ### Training
+**Note**: Please refer to [this GitHub repo for code on DomainNet](https://github.com/anh-ntv/stem-domainnet_pytorch)
 The config parameter to train model in `config` folder, please check it before run. To train the model, simply run:
 ```
 python run_stem_ht_mimic_hs.py --config <dataset name>.yaml --trg_name <target name>
